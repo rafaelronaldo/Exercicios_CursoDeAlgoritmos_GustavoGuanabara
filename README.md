@@ -1,0 +1,2 @@
+# Exercicios_CursoDeAlgoritmos_GustavoGuanabara
+
