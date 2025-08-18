@@ -1,12 +1,9 @@
 #include <stdio.h>
 #include <locale.h>
-
+ //1) Escreva um programa que mostre na tela a mensagem "Olá, Mundo"//
 int main () {
-
-    //1) Escreva um programa que mostre na tela a mensagem "Olá, Mundo!"//
-
     setlocale(LC_ALL, "Portuguese");
-    printf ("Olá, Mundo!");
+     printf ("Olá, Mundo!");
 
 
 
