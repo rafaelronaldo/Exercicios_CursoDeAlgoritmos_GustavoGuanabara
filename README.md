@@ -1,4 +1,4 @@
-# 💻 Algoritmos com C
+# 💻 Algoritmos com C++
 
 Este repositório foi criado para documentar e armazenar todos os exercícios e projetos que estou desenvolvendo no curso de **Algoritmos**, ministrado pelo professor Gustavo Guanabara no **Curso em Vídeo**.
 
@@ -12,7 +12,7 @@ A pasta contém os arquivos-fonte (`.cpp`) dos exercícios, organizados de acord
 
 ### 🛠️ Tecnologias e Ferramentas
 
-* **Linguagem:** C
+* **Linguagem:** C++
 * **Ambiente de Desenvolvimento (IDE):** Dev-C++
 
 ---
